@@ -29,6 +29,7 @@ The Software Development Life Cycle (SDLC) consists of several phases:
   - Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall vs. Agile Methodologies: Waterfall is best for projects with stable, clear requirements and a defined timeline, while Agile excels in environments where flexibility, speed, and ongoing user feedback are crucial. Please see below a detailed comparison between the two methodologies
 
 Waterfall:
@@ -47,6 +48,7 @@ Example Scenario: Suitable for dynamic projects like app development or startups
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 Software Developer:
 Role: Write and maintain code to build software applications.
 Responsibilities: Design, develop, test, and debug software based on requirements; collaborate with other team members to implement features.
@@ -60,6 +62,7 @@ Role: Oversee the software development project.
 Responsibilities: Plan, coordinate, and track project progress; manage timelines, resources, and communication between stakeholders to ensure the project stays on track and within scope.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 Integrated Development Environments (IDEs) streamline the development process by providing tools like code editors, debuggers, and automation features in one platform, improving efficiency and reducing errors.
 Examples: Visual Studio Code, IntelliJ IDEA, Eclipse.
 
@@ -67,12 +70,14 @@ Version Control Systems (VCS) allows developers to track changes to the codebase
 Examples: Git, Subversion (SVN), Mercurial.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 Software engineers face several challenges during the development process, such as:
 -Evolving Requirements: Shifts in requirements during development can cause scope creep and delay projects.
 -Tight Schedules: The pressure to meet deadlines may lead to rushed work and reduced quality.
 -Technical Debt: Accumulated from quick fixes or less-than-ideal solutions, technical debt can hinder future development and raise maintenance costs.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 Testing is essential in quality assurance and includes several types, each crucial for ensuring software quality:
 Unit Testing: Focuses on testing individual components or modules of the software.
 Integration Testing: Examines how different components or subsystems interact with each other.
@@ -83,12 +88,14 @@ Acceptance Testing: Validates the software against user requirements to ensure i
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 Prompt Engineering involves designing and refining the inputs (prompts) given to AI models to elicit desired responses. It focuses on crafting queries or instructions that guide the AI to generate accurate, relevant, and useful outputs. Its importance in interacting with AI models inclused:
 -Improves Accuracy: Well-engineered prompts can enhance the model's ability to understand and respond appropriately to queries.
 -Maximizes Efficiency: Helps achieve specific goals or insights more quickly by reducing ambiguity and misinterpretation.
 -Enhances User Experience: Leads to more relevant and contextually appropriate interactions with the AI.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Vague Prompt:
 "Tell me about health."
 
